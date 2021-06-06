@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Test">
+	<parameter name="CssSelector"  value="button.radius"/>
+	<parameter name="CssSelector"  value="input#username"/>
+	<parameter name="CssSelector"  value="h2"/>
+		<classes>
+			<class name="testDeepFindElements.FindElements" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

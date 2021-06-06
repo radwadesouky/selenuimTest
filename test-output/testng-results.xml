@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8733" started-at="2021-05-29T22:09:56 EET" finished-at="2021-05-29T22:10:04 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8733" started-at="2021-05-29T22:09:56 EET" finished-at="2021-05-29T22:10:04 EET">
+      <class name="testDeepFindElements.testDDTUsingFakeLibraries">
+        <test-method status="PASS" signature="openURL()[pri:0, instance:testDeepFindElements.testDDTUsingFakeLibraries@7ee3d262]" name="openURL" is-config="true" duration-ms="5625" started-at="2021-05-29T22:09:56 EET" finished-at="2021-05-29T22:10:01 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method status="PASS" signature="promptAlerts()[pri:0, instance:testDeepFindElements.testDDTUsingFakeLibraries@7ee3d262]" name="promptAlerts" duration-ms="2257" started-at="2021-05-29T22:10:01 EET" finished-at="2021-05-29T22:10:04 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- promptAlerts -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:testDeepFindElements.testDDTUsingFakeLibraries@7ee3d262]" name="closeDriver" is-config="true" duration-ms="765" started-at="2021-05-29T22:10:04 EET" finished-at="2021-05-29T22:10:04 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- testDeepFindElements.testDDTUsingFakeLibraries -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
